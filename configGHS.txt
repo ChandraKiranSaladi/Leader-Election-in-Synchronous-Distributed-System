@@ -1,0 +1,29 @@
+11
+1 dc02.utdallas.edu	1239
+2 dc03.utdallas.edu	1234
+3 dc04.utdallas.edu	1234
+4 dc05.utdallas.edu	1234
+5 dc06.utdallas.edu	1234
+6 dc07.utdallas.edu	1234
+7 dc08.utdallas.edu	1234
+8 dc09.utdallas.edu	1239
+9 dc10.utdallas.edu	1234
+10 dc11.utdallas.edu	1279
+11 dc12.utdallas.edu	1290
+(1,7)	2
+(1,8)	1
+(1,2)	3
+(2,5)	3
+(2,10)	4
+(2,7)	15
+(3,4)	7
+(3,11)	6
+(4,5)	2
+(4,7)	1
+(5,11)	2
+(6,9)	1
+(6,11)	8
+(6,10)	12
+(8,9)	2
+(9,10)	5
+(10,11)	7
